@@ -114,8 +114,4 @@ function game() {
 	}
 }
 
-//let computerSelection = computerPlay();
-
-//showSelections(playerSelection, computerSelection);
 game();
-//playRound(playerSelection, computerSelection);
